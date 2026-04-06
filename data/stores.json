@@ -56,7 +56,7 @@
     "category": "food",
     "benefit": "두명 방문시 음료 1캔 증정",
     "naverUrl": "https://map.naver.com/v5/search/여운%20익산",
-    "image": "./images/store-5.webp",
+    "image": "./images/store-5.jpeg",
     "tags": ["한식", "밥집", "정식"]
   },
   {
@@ -164,7 +164,7 @@
     "category": "fitness",
     "benefit": "3개월 이상 등록 시 락커 제공(선착순 20개), 6개월 이상 등록 시 방학 기간 정지 가능",
     "naverUrl": "https://map.naver.com/v5/search/피트니스코%20코코필라테스%20영등점",
-    "image": "./images/store-14.jpg",
+    "image": "./images/store-14.jpeg",
     "tags": ["필라테스", "피트니스", "운동", "영등동", "헬스", "락커"]
   }
 ]

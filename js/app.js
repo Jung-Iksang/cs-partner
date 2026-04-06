@@ -2,7 +2,7 @@ const CATEGORIES = {
   food: { icon: '🍽️', label: 'Food', labelKo: '밥집' },
   bar: { icon: '🍸', label: 'Bar', labelKo: '술집' },
   cafe: { icon: '☕', label: 'Cafe', labelKo: '카페' },
-  convenience: { icon: '🛒', label: 'Store', labelKo: '편의점' },
+  fitness: { icon: '💪', label: 'Fitness', labelKo: '헬스장' },
   culture: { icon: '🎬', label: 'Culture', labelKo: '문화' },
   other: { icon: '✦', label: 'Other', labelKo: '기타' }
 };
@@ -11,9 +11,8 @@ const CATEGORY_KEYWORDS = {
   food: ['음식', '밥', '밥집', '식당', '맛집', '먹을곳'],
   bar: ['술', '술집', '주점', '호프', '맥주'],
   cafe: ['카페', '커피', '디저트', '음료'],
-  convenience: ['편의점', '마트', '씨유', 'cu']
+  fitness: ['헬스', '헬스장', '피트니스', '필라테스', '운동', '체육관']
 };
-
 let stores = [];
 let currentFilter = 'all';
 let searchQuery = '';

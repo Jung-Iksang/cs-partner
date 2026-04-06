@@ -56,7 +56,7 @@
     "category": "food",
     "benefit": "두명 방문시 음료 1캔 증정",
     "naverUrl": "https://map.naver.com/v5/search/여운%20익산",
-    "image": "./images/store-5.webp",
+    "image": "./images/store-5.jpeg",
     "tags": ["한식", "밥집", "정식"]
   },
   {
@@ -157,14 +157,14 @@
   },
   {
     "id": "14",
-    "name": "프라임관 CU",
-    "address": "전북 익산시 무왕로 893 (신동)",
-    "lat": 35.9695,
-    "lng": 126.9580,
-    "category": "convenience",
-    "benefit": "몬스터 음료 할인",
-    "naverUrl": "https://map.naver.com/v5/search/CU%20익산%20원광대",
-    "image": "./images/store-14.svg",
-    "tags": ["편의점", "음료", "몬스터", "간식", "과자"]
+    "name": "피트니스코 코코필라테스 영등점",
+    "address": "전북 익산시 고봉로 355 2층",
+    "lat": 35.9555,
+    "lng": 126.9745,
+    "category": "fitness",
+    "benefit": "3개월 이상 등록 시 락커 제공(선착순 20개), 6개월 이상 등록 시 방학 기간 정지 가능",
+    "naverUrl": "https://map.naver.com/v5/search/피트니스코%20코코필라테스%20영등점",
+    "image": "./images/store-14.jpeg",
+    "tags": ["필라테스", "피트니스", "운동", "영등동", "헬스", "락커"]
   }
 ]
